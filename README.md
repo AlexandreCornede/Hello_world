@@ -2,4 +2,4 @@
 My first repository
 
 
-Writing a bit about myself
+Writing about me myself and I
